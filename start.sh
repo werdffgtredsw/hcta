@@ -2,7 +2,7 @@
 
 # configs
 AUUID=94518814-7816-4b29-8421-6ad7e424ff10
-CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
+CADDYIndexPage=https://github.com/technext/Rain/archive/refs/heads/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
