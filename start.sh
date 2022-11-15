@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=94518814-7816-4b29-8421-6ad7e424ff10
+AUUID=bcee556a-5faa-405b-a5ca-300e7c0ff267
 CADDYIndexPage=https://github.com/technext/Rain/archive/refs/heads/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
