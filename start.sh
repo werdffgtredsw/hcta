@@ -2,7 +2,7 @@
 
 # configs
 AUUID=bcee556a-5faa-405b-a5ca-300e7c0ff267
-CADDYIndexPage=https://github.com/technext/Rain/archive/refs/heads/master.zip
+CADDYIndexPage=https://github.com/technext/HealthCare/archive/refs/heads/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
